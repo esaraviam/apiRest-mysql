@@ -10,14 +10,14 @@
     "author": "Esteban Saravia <estebansaravia@gmail.com> (https://twitter.com/esaraviam)",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/arthaban/apiRest-mysql.git"
+        "url": "git+https://github.com/esaraviam/apiRest-mysql.git"
     },
 
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/arthaban/apiRest-mysql/issues"
+        "url": "https://github.com/esaraviam/apiRest-mysql/issues"
     },
-    "homepage": "https://github.com/arthaban/apiRest-mysql#readme",
+    "homepage": "https://github.com/esaraviam/apiRest-mysql#readme",
 
     "dependencies": {
         "body-parser": "^1.17.2",
