@@ -1,0 +1,30 @@
+{
+    "name": "api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "server": "nodemon server.js"
+    },
+    "author": "Esteban Saravia <estebansaravia@gmail.com> (https://twitter.com/esaraviam)",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/arthaban/apiRest-mysql.git"
+    },
+
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/arthaban/apiRest-mysql/issues"
+    },
+    "homepage": "https://github.com/arthaban/apiRest-mysql#readme",
+
+    "dependencies": {
+        "body-parser": "^1.17.2",
+        "express": "^4.15.4",
+        "mysql": "^2.14.1"
+    },
+    "devDependencies": {
+        "nodemon": "^1.12.0"
+    }
+}
